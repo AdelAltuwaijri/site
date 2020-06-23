@@ -1,1 +1,2 @@
-# site
+# My site 
+series of tutorials, articles, tools, and technologies ...
